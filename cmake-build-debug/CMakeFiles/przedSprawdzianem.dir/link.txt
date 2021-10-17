@@ -1,0 +1,1 @@
+/usr/bin/c++ -g CMakeFiles/przedSprawdzianem.dir/main.cpp.o -o przedSprawdzianem 

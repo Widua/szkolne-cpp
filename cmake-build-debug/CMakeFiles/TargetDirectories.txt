@@ -1,0 +1,3 @@
+/home/widua/CLionProjects/przedSprawdzianem/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/widua/CLionProjects/przedSprawdzianem/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/widua/CLionProjects/przedSprawdzianem/cmake-build-debug/CMakeFiles/przedSprawdzianem.dir
